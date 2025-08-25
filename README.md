@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm CiQuBeiJiang! 👋
+🎓 数据科学与大数据技术专业大二学生 | 持续学习的准数据科学家
 
-<!--
-**CiQuBeiJiang/CiQuBeiJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 热爱将数据转化为洞察，用代码解决现实问题
 
-Here are some ideas to get you started:
+📚 目前聚焦于打牢基础，系统学习数据科学的核心技能
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 2025年学习目标：学习完整的机器学习与神经网络，并完成3个个人项目
+
+📫 找到我
+✉️ 邮箱：1724961030@example.com
+
+📝 博客：blog.ciqubeijiang.cn
+
+很高兴能在这里与你交流技术、学习心得，或者任何有趣的想法！
