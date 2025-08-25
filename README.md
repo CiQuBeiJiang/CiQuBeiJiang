@@ -10,6 +10,6 @@
 📫 找到我
 ✉️ 邮箱：1724961030@example.com
 
-📝 博客：blog.ciqubeijiang.cn
+📝 博客：www.blog.ciqubeijiang.cn
 
 很高兴能在这里与你交流技术、学习心得，或者任何有趣的想法！
